@@ -1,0 +1,7 @@
+# acetaldehyde MP2/aug-cc-pVTZ Optimization
+
+! MP2 aug-cc-pVTZ TightSCF Opt PAL16
+%maxcore 1000
+
+* xyzfile 0 1 acetaldehyde_B3LYP_cc-pVTZ_OPT.xyz
+

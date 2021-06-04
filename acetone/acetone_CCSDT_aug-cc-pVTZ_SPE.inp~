@@ -1,0 +1,7 @@
+# acetone CCSD(T)/aug-cc-pVTZ SPE
+
+! CCSD(T) aug-cc-pVTZ TightSCF PAL8
+%maxcore 500
+
+* xyzfile 0 1 acetone_MP2_aug-cc-pVTZ_OPT.xyz
+

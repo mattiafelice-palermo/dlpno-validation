@@ -1,0 +1,140 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -343.1119464443
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -343.1121286591
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:     -343.1121675904
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:     -343.1121688424
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 5
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:     -343.1121696741
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 6
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 6
+   prop. index: 1
+        SCF Energy:     -343.1121696748
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 6
+   prop. index: 1
+       Filename                          : phosphine_B3LYP_cc-pVTZ_OPT.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.6366124456
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.600583  -0.841413   1.458373
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.680477   0.960400  -1.663770
+        Total Dipole moment:
+                   0          1          2    
+      0       0.079894   0.118987  -0.205397
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    4        Geometry Index:    1
+    Coordinates:
+            P     -0.095429074640   -0.134475569514    0.233117886715
+            H     -0.401052569359    1.237229345142   -0.060198715324
+            H     -0.400818538957   -0.566584133885   -1.101115293767
+            H      1.300630182955    0.034220358258   -0.059773877624
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    4        Geometry Index:    2
+    Coordinates:
+            P     -0.094081475072   -0.132534054347    0.229702202522
+            H     -0.398364883727    1.231235832702   -0.060865973538
+            H     -0.398226467270   -0.563034253511   -1.096290210388
+            H      1.294002826070    0.034722475156   -0.060516018596
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    4        Geometry Index:    3
+    Coordinates:
+            P     -0.092713766016   -0.130578404597    0.226255500718
+            H     -0.397021445429    1.227559116022   -0.060732684098
+            H     -0.396979103178   -0.561335496397   -1.093067088362
+            H      1.290044314622    0.034744784971   -0.060425728258
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    4        Geometry Index:    4
+    Coordinates:
+            P     -0.092503478454   -0.130279744910    0.225731497511
+            H     -0.397406210999    1.228022012555   -0.060362563141
+            H     -0.397371495541   -0.561889187015   -1.093283714229
+            H      1.290611184995    0.034536919370   -0.060055220141
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    4        Geometry Index:    5
+    Coordinates:
+            P     -0.092215941720   -0.129866633142    0.225013205391
+            H     -0.397880919073    1.228564245310   -0.059884519638
+            H     -0.397849112581   -0.562574972893   -1.093514328562
+            H      1.291275973374    0.034267360725   -0.059584357192
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    4        Geometry Index:    6
+    Coordinates:
+            P     -0.092217199494   -0.129865714962    0.225015125039
+            H     -0.397880905634    1.228564447750   -0.059884024169
+            H     -0.397844631739   -0.562574475822   -1.093513441654
+            H      1.291272736867    0.034265743034   -0.059587659217

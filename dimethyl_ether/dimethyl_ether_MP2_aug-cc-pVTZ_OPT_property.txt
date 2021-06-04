@@ -1,0 +1,226 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -154.1287101572
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:       -154.1287101572
+        Correlation Energy:       -0.6089824525
+        Total MP2 Energy:       -154.7376926097
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -154.1288138368
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 2
+   prop. index: 1
+        Reference Energy:       -154.1288138368
+        Correlation Energy:       -0.6090447606
+        Total MP2 Energy:       -154.7378585974
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:     -154.1286269090
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 3
+   prop. index: 1
+        Reference Energy:       -154.1286269090
+        Correlation Energy:       -0.6092656633
+        Total MP2 Energy:       -154.7378925723
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:     -154.1285358789
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 4
+   prop. index: 1
+        Reference Energy:       -154.1285358789
+        Correlation Energy:       -0.6093609557
+        Total MP2 Energy:       -154.7378968346
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 5
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 5
+   prop. index: 1
+        SCF Energy:     -154.1285135141
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 5
+   prop. index: 1
+        Reference Energy:       -154.1285135141
+        Correlation Energy:       -0.6093839058
+        Total MP2 Energy:       -154.7378974200
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 5
+   prop. index: 1
+       Filename                          : dimethyl_ether_MP2_aug-cc-pVTZ_OPT.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4871098001
+        Electronic Contribution:
+                   0          1          2    
+      0      -1.136855  -0.803825  -1.392303
+        Nuclear Contribution:
+                   0          1          2    
+      0       1.474629   1.042665   1.806020
+        Total Dipole moment:
+                   0          1          2    
+      0       0.337774   0.238840   0.413717
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Electric_Properties
+   comment:     The MP2 Calculated Electric Properties
+   geom. index: 5
+   prop. index: 1
+       Filename                          : dimethyl_ether_MP2_aug-cc-pVTZ_OPT.pmp2ur 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.4325826652
+        Electronic Contribution:
+                   0          1          2    
+      0      -1.149240  -0.812582  -1.407473
+        Nuclear Contribution:
+                   0          1          2    
+      0       1.474629   1.042665   1.806020
+        Total Dipole moment:
+                   0          1          2    
+      0       0.325389   0.230083   0.398548
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Electric_Properties
+   comment:     The MP2 Calculated Electric Properties
+   geom. index: 5
+   prop. index: 2
+       Filename                          : dimethyl_ether_MP2_aug-cc-pVTZ_OPT.pmp2re 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.3552500295
+        Electronic Contribution:
+                   0          1          2    
+      0      -1.166804  -0.825003  -1.428987
+        Nuclear Contribution:
+                   0          1          2    
+      0       1.474629   1.042665   1.806020
+        Total Dipole moment:
+                   0          1          2    
+      0       0.307825   0.217663   0.377033
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    9        Geometry Index:    1
+    Coordinates:
+            C      1.432719000814   -0.002812883460   -0.005021703657
+            O      0.023677987470    0.016779750286    0.028992172136
+            C     -0.483221524819    0.674750655269    1.168338739812
+            H      1.851529041802    1.011758825513   -0.026237409744
+            H      1.731229565576   -0.526069938663   -0.912115491708
+            H      1.850668394769   -0.530059542090    0.862927165331
+            H     -0.160781021764    0.183275588844    2.095685775620
+            H     -1.570162748215    0.639859282922    1.109429155259
+            H     -0.162318695632    1.723938261379    1.205661596950
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    9        Geometry Index:    2
+    Coordinates:
+            C      1.425352705908   -0.000311180436   -0.000500751503
+            O      0.017025434982    0.012089801751    0.020889158954
+            C     -0.475832645288    0.672024695038    1.163748930342
+            H      1.834326137353    1.015809521047   -0.016885873906
+            H      1.732299921228   -0.521159525338   -0.903285067216
+            H      1.833801286822   -0.523558971392    0.870994864098
+            H     -0.145949885704    0.177779536450    2.084039751431
+            H     -1.560729161378    0.642285637191    1.113324131809
+            H     -0.146953793923    1.716460485688    1.195334855990
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    9        Geometry Index:    3
+    Coordinates:
+            C      1.422338834697    0.000585637047    0.001119461904
+            O      0.012302137780    0.008745376886    0.015084926456
+            C     -0.472985763203    0.670802685377    1.161745464074
+            H      1.824326621982    1.019054238049   -0.011797504666
+            H      1.736191722085   -0.519187983849   -0.899619501053
+            H      1.824156324677   -0.520324088764    0.876421495931
+            H     -0.137240228832    0.173801783887    2.077852966604
+            H     -1.558021674346    0.645084376562    1.117783871151
+            H     -0.137727974840    1.712857974804    1.189068819600
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    9        Geometry Index:    4
+    Coordinates:
+            C      1.422631930946    0.000520415529    0.000975898730
+            O      0.011302007064    0.008022002834    0.013839622417
+            C     -0.473184401207    0.670864408476    1.161906025797
+            H      1.822723298360    1.019817458173   -0.011279463957
+            H      1.737885330090   -0.519160142267   -0.899442092985
+            H      1.822674132851   -0.520007079900    0.877428936368
+            H     -0.136010200011    0.172834552872    2.077025369042
+            H     -1.558419988252    0.646039296710    1.119231426067
+            H     -0.136262109840    1.712489087572    1.187974278521
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    9        Geometry Index:    5
+    Coordinates:
+            C      1.423160620877    0.000448062261    0.000809723802
+            O      0.011344740290    0.008038502092    0.013886504523
+            C     -0.473513871944    0.671059881863    1.162274337766
+            H      1.822901908746    1.019917122864   -0.011598834743
+            H      1.738092013308   -0.519353953747   -0.899693393224
+            H      1.822879202680   -0.520185882575    0.877408383645
+            H     -0.136300459789    0.172672766756    2.077235828785
+            H     -1.558785010623    0.646142552882    1.119300596474
+            H     -0.136439143545    1.712680947604    1.188036852972

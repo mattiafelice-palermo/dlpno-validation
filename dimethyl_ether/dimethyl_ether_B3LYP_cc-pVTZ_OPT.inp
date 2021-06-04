@@ -1,0 +1,7 @@
+# dimethyl_ether OPT with B3LYP/cc-pVTZ
+
+! B3LYP cc-pVTZ TightSCF Opt PAL8
+%maxcore 1000
+
+* xyzfile 0 1 dimethyl_ether_B3LYP_cc-pVDZ_OPT.xyz
+

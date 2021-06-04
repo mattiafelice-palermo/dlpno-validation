@@ -1,0 +1,98 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -399.3413607888
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -399.3413699123
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:     -399.3413708516
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:     -399.3413708640
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 4
+   prop. index: 1
+       Filename                          : hydrogen_sulfide_B3LYP_cc-pVDZ_OPT.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.2137352720
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.684408  -0.967855  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.960380   1.357542   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.275971   0.389687  -0.000000
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    1
+    Coordinates:
+            S     -0.061310000000   -0.086710000000    0.000000000000
+            H     -0.316460000000    1.250470000000    0.000000000000
+            H      1.284440000000    0.118460000000    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    2
+    Coordinates:
+            S     -0.060576773776   -0.085494002306    0.000000000000
+            H     -0.315923056700    1.249162099408    0.000000000000
+            H      1.283169830476    0.118551902898    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    3
+    Coordinates:
+            S     -0.060162751693   -0.084840998236    0.000000000000
+            H     -0.316001624715    1.248721748070    0.000000000000
+            H      1.282834376408    0.118339250166    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    4
+    Coordinates:
+            S     -0.060104014845   -0.084760084732    0.000000000000
+            H     -0.316148858168    1.248765340836    0.000000000000
+            H      1.282922873013    0.118214743896    0.000000000000
