@@ -1,0 +1,6 @@
+# nitrogen_mono OPT with B3LYP/cc-pVTZ
+
+! B3LYP cc-pVTZ TightSCF Opt PAL4
+
+* xyzfile 0 2 nitrogen_mono_B3LYP_cc-pVDZ_OPT.xyz
+

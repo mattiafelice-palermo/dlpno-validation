@@ -1,0 +1,6 @@
+# carbon_monoxide MP2/aug-cc-pVTZ Optimization
+
+! MP2 aug-cc-pVTZ TightSCF Opt PAL4
+
+* xyzfile 0 1 carbon_monoxide_B3LYP_cc-pVTZ_OPT.xyz
+

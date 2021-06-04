@@ -1,0 +1,83 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -129.3000459489
+------------------------ !PROPERTY! -------------------------
+   name:        MDCI_Energies
+   comment:     The MDCI energies
+   geom. index: 1
+   prop. index: 1
+        Total number of Electrons                                                     15
+        Number of correlated Electrons                                                11
+        Number of alpha correlated Electrons                                           6
+        Number of beta correlated Electrons                                            5
+        Reference Energy:                                                -129.3000493369
+        Total Correlation Energy:                                          -0.4254866400
+        Alpha-Alpha Pairs Correlation Energy (No (T))                      -0.0475069813
+        Beta-Beta Pairs Correlation Energy (No (T))                        -0.0434080527
+        Alpha-Beta Pairs Correlation Energy (No (T))                       -0.3155583052
+        Singlet pairs energy of double amplitudes (No (T))                  0.0000000000
+        Triplet pairs energy of double amplitudes (No (T))                  0.0000000000
+        Singlet pairs energy of quadratic single amplitudes (No (T))        0.0000000000
+        Triplet pairs energy of quadratic single amplitudes (No (T))        0.0000000000
+        Triples Correction Energy:                                         -0.0190136200
+        Total MDCI Energy:                                               -129.7255359768
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : nitrogen_monoxide_CCSDT_aug-cc-pVTZ_SPE.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.2032421972
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.084472   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.004512   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.079960   0.000000  -0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        MDCI_Electric_Properties
+   comment:     The MDCI Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : nitrogen_monoxide_CCSDT_aug-cc-pVTZ_SPE.mdcip 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.3231995216
+        Electronic Contribution:
+                   0          1          2    
+      0       0.122642   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.004512   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.127154   0.000000  -0.000000
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    1
+    Coordinates:
+            N    -27.881903495481   12.166670000000    0.000000000000
+            O    -26.744756504519   12.166670000000    0.000000000000

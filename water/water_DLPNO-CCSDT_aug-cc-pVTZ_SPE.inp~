@@ -1,0 +1,6 @@
+# Water SPE  with B3LYP/cc-pVTZ
+
+! DLPNO-CCSD(T) aug-cc-pVTZ aug-cc-pVTZ/C TightSCF PAL4
+%MDCI Density Unrelaxed End
+
+* xyzfile 0 1 water_MP2_aug-cc-pVTZ_OPT.xyz

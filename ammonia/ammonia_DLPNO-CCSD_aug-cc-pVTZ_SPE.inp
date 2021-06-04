@@ -1,0 +1,5 @@
+# Ammonia SPE with DLPNO-CCSD/aug-cc-pVTZ
+
+! DLPNO-CCSD aug-cc-pVTZ aug-cc-pVTZ/C PAL4
+
+*xyzfile 0 1 ammonia_MP2_aug-cc-pVTZ_OPT.xyz

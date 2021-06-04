@@ -1,0 +1,6 @@
+# carbon_monoxide DLPNO-CCSD/aug-cc-pVTZ SPE
+
+! DLPNO-CCSD aug-cc-pVTZ aug-cc-pVTZ/C TightSCF PAL4
+
+* xyzfile 0 1 carbon_monoxide_MP2_aug-cc-pVTZ_OPT.xyz
+

@@ -1,0 +1,7 @@
+# methanol OPT with B3LYP/cc-pVDZ
+
+! B3LYP cc-pVDZ TightSCF Opt PAL4
+%maxcore 1000
+
+* xyzfile 0 1 methanol.xyz
+

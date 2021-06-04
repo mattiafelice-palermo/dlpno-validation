@@ -1,0 +1,63 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -129.3000493368
+------------------------ !PROPERTY! -------------------------
+   name:        MDCI_Energies
+   comment:     The MDCI energies
+   geom. index: 1
+   prop. index: 1
+        Total number of Electrons                                                     15
+        Number of correlated Electrons                                                11
+        Number of alpha correlated Electrons                                          11
+        Number of beta correlated Electrons                                           11
+        Reference Energy:                                                -129.2923686301
+        Total Correlation Energy:                                          -0.4320954888
+        Alpha-Alpha Pairs Correlation Energy (No (T))                       0.0000000000
+        Beta-Beta Pairs Correlation Energy (No (T))                         0.0000000000
+        Alpha-Beta Pairs Correlation Energy (No (T))                        0.0000000000
+        Singlet pairs energy of double amplitudes (No (T))                  0.0000000000
+        Triplet pairs energy of double amplitudes (No (T))                  0.0000000000
+        Singlet pairs energy of quadratic single amplitudes (No (T))        0.0000000000
+        Triplet pairs energy of quadratic single amplitudes (No (T))        0.0000000000
+        Triples Correction Energy:                                         -0.0184411529
+        Total MDCI Energy:                                               -129.7244641189
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : nitrogen_monoxide_DLPNO-CCSDT_aug-cc-pVTZ_SPE.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.2032422191
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.084472   0.000000  -0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.004512   0.000000   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.079960   0.000000  -0.000000
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2        Geometry Index:    1
+    Coordinates:
+            N    -27.881903495481   12.166670000000    0.000000000000
+            O    -26.744756504519   12.166670000000    0.000000000000

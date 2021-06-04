@@ -1,0 +1,170 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -76.0602953131
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:        -76.0602953131
+        Correlation Energy:       -0.2686925076
+        Total MP2 Energy:        -76.3289878208
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:      -76.0603170097
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 2
+   prop. index: 1
+        Reference Energy:        -76.0603170097
+        Correlation Energy:       -0.2686743342
+        Total MP2 Energy:        -76.3289913439
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:      -76.0602922532
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 3
+   prop. index: 1
+        Reference Energy:        -76.0602922532
+        Correlation Energy:       -0.2687001363
+        Total MP2 Energy:        -76.3289923894
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:      -76.0602828792
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Energies
+   comment:     The MP2 energies
+   geom. index: 4
+   prop. index: 1
+        Reference Energy:        -76.0602828792
+        Correlation Energy:       -0.2687095300
+        Total MP2 Energy:        -76.3289924092
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 4
+   prop. index: 1
+       Filename                          : water_MP2_aug-cc-pVTZ_OPT.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.9926461700
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.115555  -0.163421   0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.568166   0.803516   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.452612   0.640096   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Electric_Properties
+   comment:     The MP2 Calculated Electric Properties
+   geom. index: 4
+   prop. index: 1
+       Filename                          : water_MP2_aug-cc-pVTZ_OPT.pmp2ur 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.9509925028
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.125016  -0.176801   0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.568166   0.803516   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.443150   0.626715   0.000000
+------------------------ !PROPERTY! -------------------------
+   name:        MP2_Electric_Properties
+   comment:     The MP2 Calculated Electric Properties
+   geom. index: 4
+   prop. index: 2
+       Filename                          : water_MP2_aug-cc-pVTZ_OPT.pmp2re 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.8595114271
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.145795  -0.206187   0.000000
+        Nuclear Contribution:
+                   0          1          2    
+      0       0.568166   0.803516   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0       0.422371   0.597329   0.000000
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    1
+    Coordinates:
+            O     -0.008712671522   -0.012335491730    0.000000000000
+            H     -0.289891739457    0.907195459546    0.000000000000
+            H      0.951944410979    0.029090032185    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    2
+    Coordinates:
+            O     -0.009156990054   -0.012956863589    0.000000000000
+            H     -0.288500405904    0.906677502008    0.000000000000
+            H      0.950997395958    0.030229361581    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    3
+    Coordinates:
+            O     -0.009678440144   -0.013693846079    0.000000000000
+            H     -0.287520291338    0.906537185438    0.000000000000
+            H      0.950538731482    0.031106660641    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3        Geometry Index:    4
+    Coordinates:
+            O     -0.009752091516   -0.013798771421    0.000000000000
+            H     -0.287462171719    0.906574802229    0.000000000000
+            H      0.950554263236    0.031173969191    0.000000000000

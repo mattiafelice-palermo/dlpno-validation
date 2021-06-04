@@ -1,0 +1,5 @@
+# Ammonia geom opt with B3LYP/cc-pVTZ
+
+! B3LYP cc-pVTZ Opt PAL4
+
+*xyzfile 0 1 ammonia_B3LYP_cc-pVDZ_OPT.xyz

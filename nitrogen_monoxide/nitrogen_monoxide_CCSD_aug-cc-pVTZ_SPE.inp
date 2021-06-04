@@ -1,0 +1,6 @@
+# nitrogen_monoxide CCSD/aug-cc-pVTZ SPE
+
+! CCSD aug-cc-pVTZ TightSCF PAL4
+
+* xyzfile 0 2 nitrogen_monoxide_MP2_aug-cc-pVTZ_OPT.xyz
+
