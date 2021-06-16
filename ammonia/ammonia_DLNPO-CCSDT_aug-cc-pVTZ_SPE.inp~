@@ -1,5 +1,0 @@
-# Ammonia SPE with CCSD(T)/aug-cc-pVTZ
-
-! CCSD(T) aug-cc-pVTZ PAL4
-
-*xyzfile 0 1 ammonia_MP2_aug-cc-pVTZ_OPT.xyz
