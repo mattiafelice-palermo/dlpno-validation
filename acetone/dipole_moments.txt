@@ -1,0 +1,5 @@
+acetone_B3LYP/acetone_B3LYP.out:Magnitude (Debye)      :      3.06850
+acetone_DLPNO_CCSD/acetone_DLPNO_CCSD.out:Magnitude (Debye)      :      2.94679
+acetone_HF/acetone_HF.out:Magnitude (Debye)      :      3.38805
+acetone_MP2/acetone_MP2.out:Magnitude (Debye)      :      3.26630
+acetone_PBE/acetone_PBE.out:Magnitude (Debye)      :      2.94351

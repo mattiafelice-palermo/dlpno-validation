@@ -1,0 +1,5 @@
+hydrogen_sulfide_B3LYP/hydrogen_sulfide_B3LYP.out:Magnitude (Debye)      :      0.98855
+hydrogen_sulfide_DLPNO_CCSD/hydrogen_sulfide_DLPNO_CCSD.out:Magnitude (Debye)      :      0.99202
+hydrogen_sulfide_HF/hydrogen_sulfide_HF.out:Magnitude (Debye)      :      1.08981
+hydrogen_sulfide_MP2/hydrogen_sulfide_MP2.out:Magnitude (Debye)      :      1.07796
+hydrogen_sulfide_PBE/hydrogen_sulfide_PBE.out:Magnitude (Debye)      :      0.99387

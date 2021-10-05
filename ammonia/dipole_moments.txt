@@ -1,0 +1,5 @@
+ammonia_B3LYP/ammonia_B3LYP.out:Magnitude (Debye)      :      1.49512
+ammonia_DLPNO_CCSD/ammonia_DLPNO_CCSD.out:Magnitude (Debye)      :      1.50207
+ammonia_HF/ammonia_HF.out:Magnitude (Debye)      :      1.59271
+ammonia_MP2/ammonia_MP2.out:Magnitude (Debye)      :      1.56812
+ammonia_PBE/ammonia_PBE.out:Magnitude (Debye)      :      1.45158

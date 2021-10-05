@@ -1,0 +1,7 @@
+acetaldehyde_B3LYP/acetaldehyde_B3LYP.out:Magnitude (Debye)      :      2.86115
+acetaldehyde_CCSD/acetaldehyde_CCSD.out:Magnitude (Debye)      :      2.76693
+acetaldehyde_DLPNO_CCSD/acetaldehyde_DLPNO_CCSD.out:Magnitude (Debye)      :      2.77256
+acetaldehyde_HF/acetaldehyde_HF.out:Magnitude (Debye)      :      3.21766
+acetaldehyde_MP2/acetaldehyde_MP2.out:Magnitude (Debye)      :      3.09643
+acetaldehyde_OPT/acetaldehyde_OPT.out:Magnitude (Debye)      :      2.80635
+acetaldehyde_PBE/acetaldehyde_PBE.out:Magnitude (Debye)      :      2.72117

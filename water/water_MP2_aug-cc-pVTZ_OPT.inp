@@ -1,5 +1,0 @@
-# Water geom opt with B3LYP/cc-pVTZ
-
-! MP2 aug-cc-pVTZ TightSCF Opt PAL4
-
-* xyzfile 0 1 water_b3lyp_cc-pVTZ.xyz

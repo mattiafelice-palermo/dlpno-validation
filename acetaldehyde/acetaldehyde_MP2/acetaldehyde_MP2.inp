@@ -1,0 +1,15 @@
+
+%pal
+  nprocs 6
+end
+%maxcore 2000
+
+! MP2 aug-cc-pVTZ VeryTightSCF
+! RIJCOSX def2/J aug-cc-pVTZ/C
+
+%mp2
+  density unrelaxed
+end
+
+* xyzfile 0 1 acetaldehyde.xyz
+

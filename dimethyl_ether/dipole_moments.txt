@@ -1,0 +1,5 @@
+dimethyl_ether_B3LYP/dimethyl_ether_B3LYP.out:Magnitude (Debye)      :      1.22537
+dimethyl_ether_DLPNO_CCSD/dimethyl_ether_DLPNO_CCSD.out:Magnitude (Debye)      :      1.28028
+dimethyl_ether_HF/dimethyl_ether_HF.out:Magnitude (Debye)      :      1.41001
+dimethyl_ether_MP2/dimethyl_ether_MP2.out:Magnitude (Debye)      :      1.35778
+dimethyl_ether_PBE/dimethyl_ether_PBE.out:Magnitude (Debye)      :      1.11500

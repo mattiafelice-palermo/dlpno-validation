@@ -1,0 +1,5 @@
+phosphine_B3LYP/phosphine_B3LYP.out:Magnitude (Debye)      :      0.58280
+phosphine_DLPNO_CCSD/phosphine_DLPNO_CCSD.out:Magnitude (Debye)      :      0.61599
+phosphine_HF/phosphine_HF.out:Magnitude (Debye)      :      0.67561
+phosphine_MP2/phosphine_MP2.out:Magnitude (Debye)      :      0.67739
+phosphine_PBE/phosphine_PBE.out:Magnitude (Debye)      :      0.63054

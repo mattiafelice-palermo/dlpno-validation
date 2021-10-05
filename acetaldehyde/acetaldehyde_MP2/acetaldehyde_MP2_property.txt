@@ -1,0 +1,106 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -152.9775242852
+# -----------------------------------------------------------
+$ MP2_Energies
+   description: The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:       -152.9775242852
+        Correlation Energy:       -0.5765254170
+        Total MP2 Energy:       -153.5540497022
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          1
+     Charge:                                0
+     number of atoms:                       7
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             230
+     number of aux C basis functions:       502
+     number of aux J basis functions:       191
+     number of aux JK basis functions:      0
+     number of aux CABS basis functions:    0
+     Total Energy                           -153.554050
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : acetaldehyde_MP2.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        3.2176551913
+        Electronic Contribution:
+                  0    
+      0      -2.882651
+      1       1.351876
+      2      -0.081638
+        Nuclear Contribution:
+                  0    
+      0       3.753617
+      1      -2.246169
+      2       0.291772
+        Total Dipole moment:
+                  0    
+      0       0.870965
+      1      -0.894292
+      2       0.210134
+# -----------------------------------------------------------
+$ MP2_Electric_Properties
+   description: The MP2 Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : acetaldehyde_MP2.pmp2ur 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        3.0964299882
+        Electronic Contribution:
+                  0    
+      0      -2.909550
+      1       1.390697
+      2      -0.092420
+        Nuclear Contribution:
+                  0    
+      0       3.753617
+      1      -2.246169
+      2       0.291772
+        Total Dipole moment:
+                  0    
+      0       0.844067
+      1      -0.855472
+      2       0.199352
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    7 
+    Geometry Index:     1 
+    Coordinates:
+               0 C      1.441762228274   -0.020280174117   -0.257813534876
+               1 C     -0.037835696664    0.035107943309   -0.055493675956
+               2 O     -0.728246356871    0.982026654483   -0.313172895311
+               3 H      1.812982941433    0.916060151413   -0.671732405292
+               4 H      1.931960421027   -0.232328846154    0.697629962030
+               5 H      1.686979123412   -0.852469301989   -0.925178803604
+               6 H     -0.490352660611   -0.889736426945    0.366481353008

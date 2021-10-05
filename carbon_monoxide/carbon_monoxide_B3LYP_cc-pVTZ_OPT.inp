@@ -1,6 +1,0 @@
-# carbon_monoxide OPT with B3LYP/cc-pVTZ
-
-! B3LYP cc-pVTZ TightSCF Opt PAL4
-
-* xyzfile 0 1 carbon_monoxide_B3LYP_cc-pVDZ_OPT.xyz
-

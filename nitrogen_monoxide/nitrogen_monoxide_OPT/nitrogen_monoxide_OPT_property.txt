@@ -1,0 +1,141 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -129.8067006472
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 1
+   prop. index: 1
+   Number of Alpha Electrons         7.9999987823 
+   Number of Alpha Electrons         6.9999991565 
+   Total nuber of  Electrons        14.9999979388 
+   Exchange energy                 -11.0617297338 
+   Correlation energy               -0.4923226735 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -11.5540524073 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -129.8067006529
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 2
+   prop. index: 1
+   Number of Alpha Electrons         7.9999987823 
+   Number of Alpha Electrons         6.9999991565 
+   Total nuber of  Electrons        14.9999979388 
+   Exchange energy                 -11.0617297441 
+   Correlation energy               -0.4923226675 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -11.5540524116 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 2
+   prop. index: 1
+       Filename                          : nitrogen_monoxide_OPT.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.1401392524
+        Electronic Contribution:
+                  0    
+      0       0.050612
+      1      -0.000000
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.004522
+      1       0.000000
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.055134
+      1      -0.000000
+      2      -0.000000
+# -----------------------------------------------------------
+$ Hessian
+   description: Details about the Hessian
+   geom. index: 2
+   prop. index: 1
+Normal modes:
+Number of Rows: 6 Number of Columns: 6
+                  0          1          2          3          4          5    
+      0       0.000000   0.000000   0.000000   0.000000   0.000000   0.752393
+      1       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      2       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      3       0.000000   0.000000   0.000000   0.000000   0.000000  -0.658714
+      4       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+      5       0.000000   0.000000   0.000000   0.000000   0.000000   0.000000
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 2
+   prop. index: 1
+        Temperature (Kelvin)           :        298.1500000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         30.0060000000
+        Spin Degeneracy                :          2.0000000000
+        Electronic Energy (Hartree)    :       -129.8067006529
+        Translational Energy (Hartree) :          0.0014162714
+        Rotational Energy (Hartree)    :          0.0009441809
+        Vibrational Energy (Hartree)   :          0.0000005140
+        Number of frequencies          :     6      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5     2030.465928
+        Zero Point Energy (Hartree)    :          0.0046257418
+        Inner Energy (Hartree)         :       -129.7997139448
+        Enthalpy (Hartree)             :       -129.7987697358
+        Electronic entropy             :          0.0006544564
+        Rotational entropy             :          0.0054586099
+        Vibrational entropy            :          0.0000005661
+        Translational entropy          :          0.0054586099
+        Entropy                        :          0.0232800054
+        Gibbs Energy (Hartree)         :       -129.8220497412
+        Is Linear                      :                 false
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     1 
+    Coordinates:
+               0 N    -27.883207253835   12.166670000000    0.000000000000
+               1 O    -26.743452746165   12.166670000000    0.000000000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    2 
+    Geometry Index:     2 
+    Coordinates:
+               0 N    -27.883207239337   12.166670000000    0.000000000000
+               1 O    -26.743452760663   12.166670000000    0.000000000000
