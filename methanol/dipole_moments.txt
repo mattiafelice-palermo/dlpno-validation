@@ -1,0 +1,5 @@
+methanol_B3LYP/methanol_B3LYP.out:Magnitude (Debye)      :      1.65373
+methanol_DLPNO_CCSD/methanol_DLPNO_CCSD.out:Magnitude (Debye)      :      1.67442
+methanol_HF/methanol_HF.out:Magnitude (Debye)      :      1.79072
+methanol_MP2/methanol_MP2.out:Magnitude (Debye)      :      1.74638
+methanol_PBE/methanol_PBE.out:Magnitude (Debye)      :      1.57410

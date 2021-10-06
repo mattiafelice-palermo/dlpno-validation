@@ -1,7 +1,0 @@
-# furan DLPNO-CCSD(T)/aug-cc-pVTZ SPE
-
-! DLPNO-CCSD(T) aug-cc-pVTZ aug-cc-pVTZ/C TightSCF PAL8
-%maxcore 1000
-
-* xyzfile 0 1 furan_MP2_aug-cc-pVTZ_OPT.xyz
-

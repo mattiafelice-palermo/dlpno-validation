@@ -1,0 +1,74 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -228.7108545102
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          1
+     Charge:                                0
+     number of atoms:                       9
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             322
+     number of aux C basis functions:       0
+     number of aux J basis functions:       289
+     number of aux JK basis functions:      0
+     number of aux CABS basis functions:    0
+     Total Energy                           -228.710855
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : furan_HF.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.7344826945
+        Electronic Contribution:
+                  0    
+      0      -0.938792
+      1      -1.306668
+      2       0.000000
+        Nuclear Contribution:
+                  0    
+      0       1.107411
+      1       1.541330
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.168619
+      1       0.234663
+      2       0.000000
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    9 
+    Geometry Index:     1 
+    Coordinates:
+               0 C     -0.396762645685    1.309388906171   -0.000001262135
+               1 O      0.016195167486    0.023196690929   -0.000000273843
+               2 C      1.367142353290    0.042428669974    0.000001444854
+               3 C      0.664446936676    2.148923314120    0.000002325496
+               4 C      1.823691511986    1.316209487537   -0.000002220803
+               5 H     -1.462895909254    1.463599246617   -0.000002567145
+               6 H      1.854232919962   -0.918434380174    0.000002679311
+               7 H      0.628890011690    3.226439811161    0.000003740588
+               8 H      2.856159653849    1.626788253663   -0.000003866322

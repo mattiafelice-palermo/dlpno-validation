@@ -1,0 +1,85 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -153.8080579881
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 1
+   prop. index: 1
+   Number of Alpha Electrons        12.0000128867 
+   Number of Alpha Electrons        12.0000128867 
+   Total nuber of  Electrons        24.0000257733 
+   Exchange energy                 -15.8851754185 
+   Correlation energy               -0.9436770946 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -16.8288525132 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          1
+     Charge:                                0
+     number of atoms:                       7
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             230
+     number of aux C basis functions:       0
+     number of aux J basis functions:       191
+     number of aux JK basis functions:      0
+     number of aux CABS basis functions:    0
+     Total Energy                           -153.808058
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : acetaldehyde_B3LYP.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        2.8611472499
+        Electronic Contribution:
+                  0    
+      0      -2.952246
+      1       1.475003
+      2      -0.118070
+        Nuclear Contribution:
+                  0    
+      0       3.753617
+      1      -2.246169
+      2       0.291772
+        Total Dipole moment:
+                  0    
+      0       0.801370
+      1      -0.771166
+      2       0.173702
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    7 
+    Geometry Index:     1 
+    Coordinates:
+               0 C      1.441762228274   -0.020280174117   -0.257813534876
+               1 C     -0.037835696664    0.035107943309   -0.055493675956
+               2 O     -0.728246356871    0.982026654483   -0.313172895311
+               3 H      1.812982941433    0.916060151413   -0.671732405292
+               4 H      1.931960421027   -0.232328846154    0.697629962030
+               5 H      1.686979123412   -0.852469301989   -0.925178803604
+               6 H     -0.490352660611   -0.889736426945    0.366481353008

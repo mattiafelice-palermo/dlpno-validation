@@ -1,7 +1,0 @@
-# hydrogen_sulfide OPT with B3LYP/cc-pVDZ
-
-! B3LYP cc-pVDZ TightSCF Opt PAL8
-%maxcore 1000
-
-* xyzfile 0 1 hydrogen_sulfide.xyz
-

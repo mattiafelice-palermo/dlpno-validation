@@ -1,0 +1,105 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -115.0923672219
+# -----------------------------------------------------------
+$ MP2_Energies
+   description: The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:       -115.0923672219
+        Correlation Energy:       -0.4366748660
+        Total MP2 Energy:       -115.5290420879
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          1
+     Charge:                                0
+     number of atoms:                       6
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             184
+     number of aux C basis functions:       396
+     number of aux J basis functions:       142
+     number of aux JK basis functions:      0
+     number of aux CABS basis functions:    0
+     Total Energy                           -115.529042
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : methanol_MP2.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.7907212638
+        Electronic Contribution:
+                  0    
+      0       1.756556
+      1      -0.163147
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -2.163181
+      1       0.738465
+      2      -0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.406625
+      1       0.575317
+      2      -0.000000
+# -----------------------------------------------------------
+$ MP2_Electric_Properties
+   description: The MP2 Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : methanol_MP2.pmp2ur 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.7463801703
+        Electronic Contribution:
+                  0    
+      0       1.769023
+      1      -0.175706
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0      -2.163181
+      1       0.738465
+      2      -0.000000
+        Total Dipole moment:
+                  0    
+      0      -0.394158
+      1       0.562759
+      2      -0.000000
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    6 
+    Geometry Index:     1 
+    Coordinates:
+               0 O      1.428104085157   -0.010025681984    0.000000012002
+               1 C      0.013172871712    0.020514085564    0.000000000949
+               2 H      1.737386082407    0.895543896843   -0.000000042589
+               3 H     -0.328468711459   -1.014055140574    0.000000016473
+               4 H     -0.386767201250    0.515986392949    0.893450363549
+               5 H     -0.386767126566    0.515986447202   -0.893450350384

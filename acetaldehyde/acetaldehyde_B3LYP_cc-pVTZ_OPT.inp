@@ -1,7 +1,0 @@
-# acetaldehyde OPT with B3LYP/cc-pVTZ
-
-! B3LYP cc-pVTZ TightSCF Opt PAL16
-%maxcore 1000
-
-* xyzfile 0 1 acetaldehyde_B3LYP_cc-pVDZ_OPT.xyz
-

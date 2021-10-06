@@ -1,0 +1,102 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -76.0606558869
+# -----------------------------------------------------------
+$ MP2_Energies
+   description: The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:        -76.0606558869
+        Correlation Energy:       -0.2684611552
+        Total MP2 Energy:        -76.3291170421
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          1
+     Charge:                                0
+     number of atoms:                       3
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             92
+     number of aux C basis functions:       198
+     number of aux J basis functions:       71
+     number of aux JK basis functions:      0
+     number of aux CABS basis functions:    0
+     Total Energy                           -76.329117
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : water_MP2.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.9748722676
+        Electronic Contribution:
+                  0    
+      0      -0.112453
+      1      -0.158913
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.560951
+      1       0.793353
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.448497
+      1       0.634441
+      2      -0.000000
+# -----------------------------------------------------------
+$ MP2_Electric_Properties
+   description: The MP2 Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : water_MP2.pmp2ur 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        1.9340270114
+        Electronic Contribution:
+                  0    
+      0      -0.121730
+      1      -0.172034
+      2      -0.000000
+        Nuclear Contribution:
+                  0    
+      0       0.560951
+      1       0.793353
+      2       0.000000
+        Total Dipole moment:
+                  0    
+      0       0.439221
+      1       0.621319
+      2      -0.000000
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    3 
+    Geometry Index:     1 
+    Coordinates:
+               0 O     -0.006862444578   -0.009728894558    0.000000000000
+               1 H     -0.291730184817    0.906540164951    0.000000000000
+               2 H      0.951932629395    0.027138729608    0.000000000000

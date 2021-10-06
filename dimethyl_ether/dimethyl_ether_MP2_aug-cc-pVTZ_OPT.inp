@@ -1,7 +1,0 @@
-# dimethyl_ether MP2/aug-cc-pVTZ Optimization
-
-! MP2 aug-cc-pVTZ TightSCF Opt PAL8
-%maxcore 1000
-
-* xyzfile 0 1 dimethyl_ether_B3LYP_cc-pVTZ_OPT.xyz
-

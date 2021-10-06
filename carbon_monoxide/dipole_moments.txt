@@ -1,0 +1,7 @@
+carbon_monoxide_B3LYP/carbon_monoxide_B3LYP.out:Magnitude (Debye)      :      0.10474
+carbon_monoxide_CCSD/carbon_monoxide_CCSD.out:Magnitude (Debye)      :      0.15654
+carbon_monoxide_CCSDT/carbon_monoxide_CCSDT.out:Magnitude (Debye)      :      0.15654
+carbon_monoxide_DLPNO_CCSD/carbon_monoxide_DLPNO_CCSD.out:Magnitude (Debye)      :      0.14999
+carbon_monoxide_HF/carbon_monoxide_HF.out:Magnitude (Debye)      :      0.24271
+carbon_monoxide_MP2/carbon_monoxide_MP2.out:Magnitude (Debye)      :      0.10652
+carbon_monoxide_PBE/carbon_monoxide_PBE.out:Magnitude (Debye)      :      0.23909

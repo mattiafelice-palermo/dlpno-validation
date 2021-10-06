@@ -1,0 +1,5 @@
+water_B3LYP/water_B3LYP.out:Magnitude (Debye)      :      1.84575
+water_DLPNO_CCSD/water_DLPNO_CCSD.out:Magnitude (Debye)      :      1.84262
+water_HF/water_HF.out:Magnitude (Debye)      :      1.97487
+water_MP2/water_MP2.out:Magnitude (Debye)      :      1.93403
+water_PBE/water_PBE.out:Magnitude (Debye)      :      1.78849

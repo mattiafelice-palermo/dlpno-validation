@@ -1,0 +1,5 @@
+furan_B3LYP/furan_B3LYP.out:Magnitude (Debye)      :      0.62185
+furan_DLPNO_CCSD/furan_DLPNO_CCSD.out:Magnitude (Debye)      :      0.61838
+furan_HF/furan_HF.out:Magnitude (Debye)      :      0.73448
+furan_MP2/furan_MP2.out:Magnitude (Debye)      :      0.67397
+furan_PBE/furan_PBE.out:Magnitude (Debye)      :      0.53027
